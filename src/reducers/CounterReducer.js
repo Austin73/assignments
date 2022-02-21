@@ -1,4 +1,4 @@
-const counterReducer=(state=1,action) =>{
+const counterReducer=(state='',action) =>{
 
     switch(action.type)
     {

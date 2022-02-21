@@ -1,4 +1,4 @@
-const inputReducer=(state=1,action) =>{
+const inputReducer=(state='',action) =>{
 
     switch(action.type)
     {
